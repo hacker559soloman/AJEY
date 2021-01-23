@@ -1,2 +1,7 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+echo "# ajeywebdesigner" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hacker559soloman/ajeywebdesigner.git
+git push -u origin main
